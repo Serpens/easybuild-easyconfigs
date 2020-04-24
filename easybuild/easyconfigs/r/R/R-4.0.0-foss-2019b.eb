@@ -758,9 +758,9 @@ exts_list = [
     ('R.utils', '2.9.2', {
         'checksums': ['ac6b3b8e814fbb855c38fbdb89a4f0cf0ed65ce7fa308445bd74107fbc0d32cf'],
     }),
-    ('R.matlab', version, {
-        'checksums': ['1ba338f470a24b7f6ef68cadbd04eb468ead4a689f263d2642408ad591b786bb'],
-    }),
+    #('R.matlab', version, {
+    #    'checksums': ['1ba338f470a24b7f6ef68cadbd04eb468ead4a689f263d2642408ad591b786bb'],
+    #}),
     ('gridExtra', '2.3', {
         'checksums': ['81b60ce6f237ec308555471ae0119158b115463df696d2eca9b177ded8988e3b'],
     }),
