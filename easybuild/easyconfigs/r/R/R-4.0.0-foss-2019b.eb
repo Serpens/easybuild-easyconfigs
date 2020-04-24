@@ -1289,7 +1289,8 @@ exts_list = [
         'checksums': ['8e259c2b12446197d1152b83a81bab84ccb5a5b77021a9b5645dd4c63c804bd1'],
     }),
     ('doRNG', '1.7.1', {
-        'checksums': ['bda8143e2b5554fb39fdea81af6482f8938160fdbf5c45014f3a5de40aacf4c4'],
+        'checksums': [('27533d54464889d1c21301594137fc0f536574e3a413d61d7df9463ab12a67e9',
+                       'bda8143e2b5554fb39fdea81af6482f8938160fdbf5c45014f3a5de40aacf4c4')],
     }),
     ('nleqslv', '3.3.2', {
         'checksums': ['f54956cf67f9970bb3c6803684c84a27ac78165055745e444efc45cfecb63fed'],
