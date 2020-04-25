@@ -5,7 +5,7 @@ homepage = 'https://www.r-project.org/'
 description = """R is a free software environment for statistical computing
  and graphics."""
 
-toolchain = {'name': 'foss', 'version': '2019b'}
+toolchain = {'name': 'foss', 'version': '2020b'}
 
 source_urls = ['https://cloud.r-project.org/src/base/R-%(version_major)s']
 sources = [SOURCE_TAR_GZ]
